@@ -1,0 +1,36 @@
+Belajar CSS Pre Prosessor
+
+CSS Pre Processor
+
+Kekurangan pada CSS
+- Tidak ada variabel
+- Tidak ada function
+- Tidak ada modularisasi
+- Tidak bisa melakukan operasi & logika pemograman
+- Banyak Duplikasi kode
+
+Solusi yang ditawarkan oleh Pre Processor
+- variable
+- mixin
+- import dan uses
+- operator & built-in function
+- nested css
+
+Beberapa framework CSS Pre processor
+- Sass
+- stylus
+- dll
+
+Alasan Menggunakan SASS
+- Mempermudah penulisan
+- Mempermudah pengelolaan
+- Memiliki banyak fungsi built-in
+- kita dapat membuat fungsi sendiri
+- kita dapat memodifikasi framework CSs
+- Banyak perusahaan yang menggunakan SASS
+
+
+Alasan tidak menggunakan SASS
+- Banyak fitur SASS yang sekarang sudah dimiliki oleh CSS
+- Tidak untuk project kecil
+- Styled Component / CSS in js
